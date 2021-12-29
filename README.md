@@ -9,9 +9,9 @@
 
 #### To add an auto-layout feature to elements, create a frame around them, right click - add auto layout or SHIFT + A
 
-#### 
+#### to add effects to an elem, select the elem and got to the bottom of right panel for EFFECTS options, like drop shadows and more    
 
-#### 
+#### Pen tool - endpoints - square or round
 
 #### 
 
