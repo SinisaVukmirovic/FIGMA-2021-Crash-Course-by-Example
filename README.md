@@ -6,14 +6,15 @@
 ![Image](linkhere)
 
 #### To create a background pattern, got to fill and where it says SOLID, choose IMAGE
+##### Same for gradiants (linear, radial, diamond...)
 
 #### To add an auto-layout feature to elements, create a frame around them, right click - add auto layout or SHIFT + A
 
 #### to add effects to an elem, select the elem and got to the bottom of right panel for EFFECTS options, like drop shadows and more    
 
-#### Pen tool - endpoints - square or round
+#### Pen tool - stroke endpoints - square or round
 
-#### 
+#### Install plugins - click figma logo icon in top left - plugins - manage plugins and search and instal plugins (iconify for icons, lorem) with clicking the Browse plugins in Community
 
 #### 
 
