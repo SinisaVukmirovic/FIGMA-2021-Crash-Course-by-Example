@@ -14,7 +14,7 @@
 
 #### Pen tool - stroke endpoints - square or round
 
-#### Install plugins - click figma logo icon in top left - plugins - manage plugins and search and instal plugins (iconify for icons, lorem) with clicking the Browse plugins in Community
+#### Install plugins - click figma logo icon in top left - plugins - manage plugins and search and instal plugins (iconify for icons, lorem, unsplash avatars...) with clicking the Browse plugins in Community
 
 #### 
 
