@@ -16,7 +16,8 @@
 
 #### Install plugins - click figma logo icon in top left - plugins - manage plugins and search and instal plugins (iconify for icons, lorem, unsplash avatars...) with clicking the Browse plugins in Community
 
-#### 
+### Components in FIGMA
+#### Components are reusable elements, make an element into a component and any change on that component with apply onto all elements duplicated from that component. 
 
 #### 
 
