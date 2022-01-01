@@ -19,12 +19,5 @@
 ### Components in FIGMA
 #### Components are reusable elements, make an element into a component and any change on that component with apply onto all elements duplicated from that component. 
 
-#### 
-
-#### 
-
-#### 
-
-#### 
-
-#### 
+### Combining while hovering and click interactions
+#### Click interaction must be set on overlay frame created for hovering effect!
