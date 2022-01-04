@@ -3,7 +3,7 @@
 
 [Prototype link](https://www.figma.com/file/zdt9qudRfk9x6Bn4HJpAsv/Figma-2021-Crash-Course-by-Exampe?node-id=0%3A1 "Figma 2021 Crash Course by Example")
 
-![Image](linkhere)
+![Image](https://github.com/SinisaVukmirovic/FIGMA-2021-Crash-Course-by-Example/blob/main/preview.png)
 
 #### To create a background pattern, got to fill and where it says SOLID, choose IMAGE
 ##### Same for gradiants (linear, radial, diamond...)
