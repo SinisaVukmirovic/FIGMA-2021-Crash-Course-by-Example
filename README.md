@@ -1,7 +1,7 @@
 ## FIGMA
 ### Figma Landing Page Design
 
-[Prototype link](linkhere "Figma 2021 Crash Course by Example")
+[Prototype link](https://www.figma.com/file/zdt9qudRfk9x6Bn4HJpAsv/Figma-2021-Crash-Course-by-Exampe?node-id=0%3A1 "Figma 2021 Crash Course by Example")
 
 ![Image](linkhere)
 
